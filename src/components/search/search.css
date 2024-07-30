@@ -1,0 +1,16 @@
+.SearchComponent{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 0;
+  }
+  .cloudIcon{
+    height: 50px;
+    width: 50px;
+  }
+  .Input{
+    height: 40px;
+    width: 1500px;
+    border: 1px solid black;
+    border-radius: 2px;
+  }
